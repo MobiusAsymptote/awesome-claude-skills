@@ -19,6 +19,7 @@ All skills must:
 5. **Be tested** - Verify the skill works across Claude.ai, Claude Code, and/or API.
 6. **Be safe** - Confirm before destructive operations.
 7. **Be portable** - Work across Claude platforms when applicable.
+8. **Be token-efficient** - Run your `SKILL.md` through the [Token Optimizer](./token-optimizer/) skill before submitting to cut padding without losing instructions. Every token in a skill file is paid for on every activation, so a leaner prompt is a cheaper, faster one.
 
 ## Skill Structure
 
