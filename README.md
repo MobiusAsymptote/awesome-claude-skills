@@ -122,6 +122,11 @@ Claude Skills are customizable workflows that teach Claude how to perform specif
 - [MCP Builder](./mcp-builder/) - Guides creation of high-quality MCP (Model Context Protocol) servers for integrating external APIs and services with LLMs using Python or TypeScript.
 - [Geopogo Revit Skills](./geopogo/) - Workflows for driving Autodesk Revit through the geopogo-ai MCP connector: conventions, curtain walls, houses/roofs, site context, and a complete reference covering towers, structure, MEP, documentation, and coordination.
 - [Architecture Studio (Unified)](./architecture-studio-unified/) - Router for AEC firm workflows: EPDs and product data, project management, NYC zoning and regulatory, site analysis, specs, and data schemas.
+- [ArchOS Master](./archos-master-46/) - Local-first router for architecture projects across 46 modules, from site and code research through Revit production, rendering, permitting, and handoff.
+- [Revit BIM Toolkit](./revit-bim-toolkit/) - 25 routed skills for Dynamo/Revit API code, model audits, clash detection, schedules, and exports.
+- [DDC BIM Data Validation](./ddc-bim-data-validation/) - 14 routed skills for RVT/IFC conversion, data extraction, quantity takeoff, clash analysis, and BIM validation.
+- [IfcOpenShell Toolkit](./ifcopenshell-toolkit/) - 15 routed skills for the IFC data model and the IfcOpenShell API: creation, geometry, relationships, and validation.
+- [Computational Design Toolkit](./computational-design-toolkit/) - 18 routed skills for parametric modeling, generative design, simulation, fabrication, and ML for AEC.
 - [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
 - [Playwright Browser Automation](https://github.com/lackeyjb/playwright-skill) - Model-invoked Playwright automation for testing and validating web applications. *By [@lackeyjb](https://github.com/lackeyjb)*
 - [prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering) - Teaches well-known prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
